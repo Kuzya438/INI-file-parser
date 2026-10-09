@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "INI file parser\\x64\\Debug\\INIParser.obj",
+            "outputs": [
+                "INI file parser\\x64\\Debug\\INIParser.cpp.obj.dt.module.json",
+                "INI file parser\\x64\\Debug\\INIParser.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

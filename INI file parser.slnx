@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="INI file parser.vcxproj" Id="96ff544c-664d-4637-a779-70e5bbadf127" />
+</Solution>
